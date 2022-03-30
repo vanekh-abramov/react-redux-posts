@@ -1,0 +1,65 @@
+.app {
+  margin: 3% auto;
+  padding: 0;
+  box-sizing: border-box;
+  width: 80vw;
+
+  align-items: center;
+}
+/* 
+.form {
+  width: 50%;
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.form > .inp {
+  width: 100%;
+  height: 40px;
+  padding: 1%;
+  margin-top: 3%;
+}
+
+.form > .btn {
+  width: 50%;
+  height: 40px;
+  margin-top: 3%;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.posts_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.posts_container > .post_item {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  margin-top: 3%;
+  padding: 5%;
+}
+
+.posts_container > .post_item > .text_wrapper > .title {
+  font-weight: bolt;
+  font: 2em sans-serif;
+}
+
+.posts_container > .post_item > .text_wrapper > .body {
+  font: 1em sans-serif;
+}
+
+.btn_del {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  font-size: 4rem;
+} */
